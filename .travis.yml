@@ -27,9 +27,6 @@ cache:
   directories:
   - vendor
 
-branches:
-  only:
-    - master
 
 notifications:
   email:
